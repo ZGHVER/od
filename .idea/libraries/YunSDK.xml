@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="YunSDK">
+    <CLASSES>
+      <root url="file://D:/YunSDK" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/YunSDK" recursive="false" />
+  </library>
+</component>
